@@ -106,7 +106,7 @@ export default function Home() {
 					</li>
 				</ol>
 			</section>
-			<div className='flex'>
+			<div className=' w-full bg-white flex p-6'>
 				<h2 className='px-2'>Token Policy ID: </h2>
 				<p>067cac6082f8661b6e14909b40590120bf0bf02c21f5d07ee03d0e02</p>
 			</div>
@@ -115,7 +115,7 @@ export default function Home() {
 					© {new Date().getFullYear()} SNeL. Built with ❤️ by the community.{" "}
 					<br />
 					<small>
-						SNEK is a memecoin with no intrinsic value or expectation of
+						SNeL is a memecoin with no intrinsic value or expectation of
 						financial return. There is no formal team or roadmap. The coin is
 						for entertainment purposes only.
 					</small>
